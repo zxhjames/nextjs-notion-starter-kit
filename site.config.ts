@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://cedar-lynx-1d0.notion.site/67e3e523c06f43fea1f4633a87c8862c',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
